@@ -1,5 +1,5 @@
 /* Nexphic IT Institute service worker. Bump VERSION on each site update. */
-var VERSION = "nexphic-v1";
+var VERSION = "nexphic-v2";
 var SHELL = ["./", "index.html", "manifest.json", "assets/icons/icon-192.png", "assets/icons/icon-512.png"];
 
 self.addEventListener("install", function (e) {
